@@ -1,4 +1,4 @@
 tools
 =====
 
-Various junk that comes in handy
+Various fun programs, files, and other stuff accumulated over the years.
